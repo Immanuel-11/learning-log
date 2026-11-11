@@ -8,4 +8,5 @@ Building AI Projects one at a time
 
 * Set up Git and GitHub
 * Learned Git init, Git config, PATH
+* First Push to GitHub done.
 
